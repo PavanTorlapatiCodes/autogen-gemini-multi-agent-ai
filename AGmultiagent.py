@@ -13,7 +13,7 @@ from autogen_ext.models.openai import OpenAIChatCompletionClient
 
 # 1. Page Configuration
 st.set_page_config(
-    page_title="Multimodal AutoGen Analyzer by PRAKASH SENAPATI",
+    page_title="Multimodal AutoGen Analyzer by Pavan Torlapati",
     page_icon="🖼️",
     layout="centered"
 )
